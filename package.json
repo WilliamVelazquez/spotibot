@@ -24,6 +24,7 @@
   "homepage": "https://github.com/WilliamVelazquez/spotibot#readme",
   "dependencies": {
     "dotenv": "8.0.0",
-    "node-spotify-api": "1.1.1"
+    "node-spotify-api": "1.1.1",
+    "telegraf": "3.32.0"
   }
 }
