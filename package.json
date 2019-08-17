@@ -1,0 +1,29 @@
+{
+  "name": "spotibot",
+  "version": "1.0.0",
+  "description": "Chatbot for Telegram to work with Spotify developed with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamVelazquez/spotibot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "telegram",
+    "node",
+    "spotify"
+  ],
+  "author": "William Velazquez <william.velazquez.a@gmail.com> (https://twitter.com/WilliamVlazquez)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamVelazquez/spotibot/issues"
+  },
+  "homepage": "https://github.com/WilliamVelazquez/spotibot#readme",
+  "dependencies": {
+    "dotenv": "8.0.0",
+    "node-spotify-api": "1.1.1"
+  }
+}
