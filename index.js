@@ -2,7 +2,7 @@ require('dotenv').config()
 
 const spotify = require('./usecases/spotify')
 
-spotify.findTrack('november')
+spotify.findTracks('sabor a mi')
 .then(response => {
     console.log('response:',response)
   })
